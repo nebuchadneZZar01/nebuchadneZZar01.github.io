@@ -1,5 +1,5 @@
 +++
-title = "Résumé"
+title = "Résumé (CV)"
 +++
 
 # TABLE OF CONTENTS
@@ -86,8 +86,8 @@ ___
 
 # DOWNLOAD PDF
 
-## · [CV Europass Format (ITA)](/files/CV_ita.pdf)
+## · [Europass Format (ITA)](/files/CV_ita.pdf)
 
-## · [CV Europass Format (ENG)](/files/CV_eng.pdf)
+## · [Europass Format (ENG)](/files/CV_eng.pdf)
 
 
