@@ -7,6 +7,7 @@ title = "Résumé"
 - [Work Experience](#work-experience)
 - [Skills](#skills)
 - [Languages](#languages)
+- [Download PDF](#download-pdf)
 
 ___
 
@@ -80,4 +81,13 @@ ___
 - **Italian** – *Native Speaker*
 - **English** – *B2 Level*
 - **French** – *A1 Level*
+
+___
+
+# DOWNLOAD PDF
+
+## · [CV Europass Format (ITA)](/files/CV_ita.pdf)
+
+## · [CV Europass Format (ENG)](/files/CV_eng.pdf)
+
 
