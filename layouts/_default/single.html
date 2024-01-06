@@ -1,0 +1,7 @@
+{{ define "main" }}
+  {{ if eq (.Params.Type) "link-list" }}
+    {{ partial "link-list.html" . }}
+  {{ else }}
+    {{ partial "post-single.html" . }}
+  {{ end }}
+{{ end }}

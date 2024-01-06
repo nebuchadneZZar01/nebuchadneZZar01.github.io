@@ -1,0 +1,22 @@
+<ul class="menu">
+  <li class="logo menu__trigger">
+    ≡&nbsp{{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}Menu{{ end }}&nbsp;🞃
+  </li>
+  <li>
+    <ul class="menu__dropdown">
+      {{ range $.Site.Menus.main }}
+        {{ if not .HasChildren }}
+          <li>· <a href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      {{ end }}
+      {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
+        <hr />
+        {{ range $.Site.Home.AllTranslations }}
+          <li>
+            · <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </li>
+</ul>

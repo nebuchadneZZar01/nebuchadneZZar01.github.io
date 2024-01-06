@@ -1,0 +1,39 @@
+baseurl = "https://nebuchadnezzar01.github.io/"
+languageCode = "en-us"
+theme = "hugo-theme-terminal-extended"
+paginate = 5
+
+[params]
+  themeColor = "blue"
+  fullWidthTheme = false
+  centerTheme = true
+  showLanguageSelector = false
+  hideDefaultCredit = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Michele Ferro"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    favicon = "icon/favicon.ico"
+
+    [languages.en.params.logo]
+      logoText = "nebuchadnezzar"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "Home"
+        name = "Home"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "portfolio"
+        name = "Projects"
+        url = "/portfolio"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Résumé"
+        url = "/resume"
+
+

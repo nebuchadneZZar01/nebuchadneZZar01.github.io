@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1>#{{ .Title }}</h1>
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+  <div class="posts">
+    <ul>
+     {{ range .Paginator.Pages }}
+        {{ if $.Site.Params.ListDateFormat }}
+        <li><span class="post-date">{{ .Date.Format $.Site.Params.ListDateFormat }}</span> <a class="post-link" href="{{.RelPermalink}}">{{ .Title | markdownify }}</a></li>
+        {{ else }}
+        <li><span class="post-date">{{ .Date.Format "2006-01-02" }}</span> <a class="post-link" href="{{.RelPermalink}}">{{ .Title | markdownify }}</a></li>
+        {{ end }}
+    {{ end }}
+    </ul>
+    {{ partial "pagination.html" . }}
+</div>
+{{ end }}

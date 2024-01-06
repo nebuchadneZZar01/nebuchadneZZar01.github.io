@@ -1,0 +1,145 @@
+:root {
+    --iconSize: 46px;
+    --extraLinkSize: 30px;
+}
+
+#userPhoto {
+    width: 96px;
+    height: 96px;
+    display: block;
+    margin: 50px auto 20px;
+    border-radius: 50%;
+}
+
+#userName {
+    font-size: 25pt;
+    line-height: 1.25;
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px;
+}
+
+#description {
+    font-size: 14pt;
+    line-height: 1.25;
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px;
+}
+
+#links {
+    max-width: 100%;
+    width: 100%;
+    display: block;
+    margin: 0px auto 20px auto;
+}
+
+.icon {
+    width: var(--iconSize);
+}
+
+.textContainer {
+    display: block;
+    margin: 50px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 14pt;
+    transition: all .25s cubic-bezier(.08,.59,.29,.99);
+    border: solid $accent 2px;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.linkContainer {
+    display: block;
+    background-color: $accent;
+    margin: 20px 0px;
+    text-decoration: none;
+    font-size: 14pt;
+    transition: all .25s cubic-bezier(.08,.59,.29,.99);
+    border: solid $accent 2px;
+    border-radius: 8px;
+    color: $background;
+}
+
+.linkContainer:hover{
+    background-color: $background;
+    color: $accent;
+}
+
+.link {
+    border: medium none;
+    -moz-box-align: center;
+    -moz-box-pack: center;
+    padding: 15px 5px;
+    margin: 0px;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    width: 100%;
+    cursor: pointer;
+    appearance: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: auto;
+    position: relative;
+    fill: inherit;
+    padding: 16px 66px;
+}
+
+.linkIconContainer {
+    width: auto;
+    height: var(--iconSize);
+    display: block;
+    object-fit: contain;
+    object-position: initial;
+    filter: none;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+    overflow: hidden;
+    -moz-box-pack: center;
+    justify-content: center;
+    -moz-box-align: center;
+    align-items: center;
+    border-radius: 4px;
+    position: absolute;
+    left: 8px;
+    fill: inherit;
+}
+
+.linkText, .textContainer p {
+    width: 100%;
+    color: inherit;
+    font-family: var(--font);
+    font-size: 12pt;
+    margin: 0px;
+}
+
+.linkText {
+    line-height: 1.5;
+}
+
+#extraLinks {
+    max-height: 10px;
+    margin: 20px;
+    text-align: center;
+}
+
+.extraLink {
+    text-decoration: none;
+    margin: 5px;
+}
+
+.extraLink img {
+    width: var(--extraLinkSize);
+    height: var(--extraLinkSize);
+    margin: 5px;
+    display: inline;
+}

@@ -1,0 +1,37 @@
+{
+    "List": [
+        {
+            "Type": "text",
+            "Content": "These are some of the projects I have been working on! 🖥️",
+            "HtmlClasses": "desktopOnly"
+        },
+        {
+            "Type": "link",
+            "Link": "https://github.com/nebuchadneZZar01/PointCloudStats-blender",
+            "Icon": "/icon/blender.svg",
+            "Content": "Point Cloud Stats - Bachelor's thesis project (Blender Add-On)",
+            "OpenNewTab": true
+        },
+        {
+            "Type": "link",
+            "Link": "https://github.com/nebuchadneZZar01/sustineo_extractor",
+            "Icon": "/icon/python.svg",
+            "Content": "SustiNEO Extractor - Master's thesis project",
+            "OpenNewTab": true
+        },
+        {
+            "Type": "link",
+            "Link": "https://github.com/nebuchadneZZar01/video_frame_interpolator",
+            "Icon": "/icon/python.svg",
+            "Content": "Video frame interpolator - University subject project",
+            "OpenNewTab": true
+        },
+        {
+            "Type": "link",
+            "Link": "https://github.com/nebuchadneZZar01/PokeMMon",
+            "Icon": "/icon/python.svg",
+            "Content": "PokéMMon - University subject project",
+            "OpenNewTab": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <h1 class="page-title">
+    <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+  </h1>
+
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+
+  {{ if eq (.Params.Type) "portfolio" }}
+    {{ partial "portfolio-list.html" . }}
+  {{ else if eq (.Params.Type) "link-list" }}
+    {{ partial "link-list.html" . }}
+  {{ else }}
+    {{ partial "post-list.html" . }}
+  {{ end }}
+  
+{{ end }}

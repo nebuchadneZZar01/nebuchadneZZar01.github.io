@@ -1,0 +1,23 @@
+#easterEgg {
+    position: fixed; 
+    width: 150px; 
+    bottom: 0px; 
+    right: 20px;
+    z-index: 9999;
+}
+
+@media screen and (max-width: 700px) {
+    #easterEgg {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    body:has(.content):has(#links) {
+        background-image: url("/img/pixel_dots.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: bottom left;
+    }
+}
+

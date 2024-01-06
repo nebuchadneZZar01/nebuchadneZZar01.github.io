@@ -1,0 +1,48 @@
+{
+    "Name": "@nebuchadnezzar",
+    "Description": "Michele Ferro",
+    "Image": "/img/avatar.jpg",
+    "Socials": [
+        {
+            "Link": "https://www.instagram.com/michferro_/",
+            "Icon": "/icon/instagram.svg",
+            "AltText": "Instagram"
+        },
+        {
+            "Link": "https://twitter.com/Mich01__",
+            "Icon": "/icon/x.svg",
+            "AltText": "Twitter"
+        },
+        {
+            "Link": "https://www.linkedin.com/in/michele-ferro-577b71237/",
+            "Icon": "/icon/linkedin.svg",
+            "AltText": "LinkedIn"
+        },
+        {
+            "Link": "mailto:michele.ferro1998@protonmail.com",
+            "Icon": "/icon/mail.svg",
+            "AltText": "Mail"
+        }
+    ],
+    "List": [
+        {
+            "Type": "text",
+            "Content": "Hey there! I'm a Computer Science Master's grad into AI, 3D Graphics and Computer Vision. But when I'm not coding, you'll find me geeking out over cinema 📽️, videogames 🎮, music 🎵, comic books and manga 📚",
+            "HtmlClasses": "desktopOnly"
+        },
+        {
+            "Type": "link",
+            "Link": "https://github.com/nebuchadneZZar01",
+            "Icon": "/icon/github.svg",
+            "Content": "Check out my repos 🖥️",
+            "OpenNewTab": true
+        },
+        {
+            "Type": "link",
+            "Link": "https://www.artstation.com/nebuchadnezzar98",
+            "Icon": "/icon/artstation.svg",
+            "Content": "Some of my public 3D doodles 🎨",
+            "OpenNewTab": true
+        }
+    ]
+}

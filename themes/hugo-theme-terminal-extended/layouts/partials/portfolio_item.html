@@ -1,0 +1,18 @@
+
+    <a class="portfolio-link" href="{{.RelPermalink}}">
+      <div class="portfolio-grid-item">
+          {{ if .Params.portfolioCover }}
+            <div>
+              <img class="portfolio-grid-item-image" src="{{ .Params.portfolioCover | absURL }}" alt="{{ .Title | plainify | default " " }}" /> 
+            </div>
+          {{ end }}
+          <div class="portfolio-grid-item-name">
+            {{ .Title | markdownify }}
+            {{ if .Params.portfolioIcons}}
+              {{ range .Params.portfolioIcons }}
+                <img class="portfolio-grid-item-icon" height="14" width="14" src={{ . | absURL }} />
+              {{ end }}
+            {{ end }}
+          </div>
+      </div>
+    </a>

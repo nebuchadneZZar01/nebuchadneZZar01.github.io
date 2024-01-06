@@ -1,0 +1,46 @@
+.portfolio-grid {
+  display: grid;
+  grid-gap: 10px;
+
+  grid-template-columns: repeat( auto-fit, minmax(185px, 1fr) );
+
+  @media ($phone) {
+    grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) );
+  }
+}
+
+.portfolio-grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  font-size: 30px;
+  border: 1px solid var(--border-color);
+  position: relative;
+}
+
+.portfolio-grid-item > div .portfolio-grid-item-image {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+
+.portfolio-grid-item-icon {
+  display: inline;
+}
+
+.portfolio-grid-item-name {
+  align-items: center;
+  text-decoration: none;
+  background: #78e2a0;
+  background: $accent;
+  color: #000;
+  padding: 5px 10px;
+  float: left;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  font-size: 12pt;
+}
+
+.portfolio-link {
+  display:block;
+}

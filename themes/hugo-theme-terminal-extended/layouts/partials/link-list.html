@@ -1,0 +1,31 @@
+{{ $ListData := (index .Site.Data .Params.linkListData) }}
+<img id="userPhoto" src="{{ $ListData.Image | absURL }}" alt="User Photo">
+<p id="userName">{{ $ListData.Name }}</p>
+<p id="description">{{ $ListData.Description }}</p>
+
+<div id="extraLinks">    
+    {{ range $ListData.Socials }}
+    <a class="extraLink" href="{{ .Link | absURL }}" target="_blank">
+        <img src="{{ .Icon | absURL }}" alt="{{ .AltText }}"/>
+    </a>
+    {{ end }}
+</div>
+
+<div id="links">
+    {{ range $ListData.List }}
+        {{if eq (.Type) "text" }} 
+        <div class="textContainer {{.HtmlClasses}}">
+            <p>{{ .Content | safeHTML | markdownify }}</p>
+        </div>
+        {{ else if eq .Type "link" }}
+        <div class="linkContainer">
+            <a class="link" href="{{ .Link | absURL }}" {{ if .OpenNewTab }} target="_blank" {{ end }}>
+                <div class="linkIconContainer {{.HtmlClasses}}">
+                    <img class="icon" src="{{ .Icon | absURL }}" alt="{{ .AltText }}">
+                </div>
+                <p class="linkText">{{ .Content }}</p>
+            </a>
+        </div>
+        {{ end }}
+    {{ end }}
+</div>

@@ -1,0 +1,16 @@
+{{ if .Sections }}
+    {{ range sort .Sections ".Weight"}}
+      <h2>{{.CurrentSection.Title}}</h2>
+      <div class="portfolio-grid">
+        {{ range .Data.Pages }}
+          {{ partial "portfolio_item.html" . }}
+        {{ end }}
+      </div>
+    {{ end }}
+{{ else }}
+      <div class="portfolio-grid">
+    {{ range .Pages }}
+       {{ partial "portfolio_item.html" . }}
+    {{ end }}
+      </div>
+{{ end }}
