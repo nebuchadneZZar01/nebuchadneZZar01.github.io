@@ -51,6 +51,8 @@ Mathematics and Computer Science), professionals and industry experts.
 - Qualitative evaluations on the outputs of the algorithms used and based on these evaluations propose
 possible modifications to the input data and/or analysis techniques.
 
+## · Junior Back-end Programmer Internship (23 February - )
+**AITHO** – *Catania, Italy*
 ___
 
 # PUBLICATIONS
