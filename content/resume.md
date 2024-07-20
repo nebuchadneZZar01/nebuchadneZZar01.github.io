@@ -14,16 +14,6 @@ ___
 
 # EDUCATION
 
-## · High School Degree (2012 - 2017)
-**Liceo Scientifico A. Volta** – *Caltanissetta, Italy*
-
-## · Computer Science Bachelor'S Degree (2017 - 2021)
-**Università degli Studi di Catania** – *Catania, Italy*
-
-**Thesis:** Sviluppo di add-on per Blender: applicazioni nell'archeologia e nell'ingegneria edile
-
-**Grade:** 103/110
-
 ## · Computer Science Master's Degree (2021 - 2023)
 **Università degli Studi di Catania** – *Catania, Italy* 
 
@@ -33,9 +23,30 @@ ___
 
 Nominee "Premio Archimede" 20th Ed. 2024
 
+## · Computer Science Bachelor'S Degree (2017 - 2021)
+**Università degli Studi di Catania** – *Catania, Italy*
+
+**Thesis:** Sviluppo di add-on per Blender: applicazioni nell'archeologia e nell'ingegneria edile
+
+**Grade:** 103/110
+
+## · High School Degree (2012 - 2017)
+**Liceo Scientifico A. Volta** – *Caltanissetta, Italy*
+
 ___
 
 # WORK EXPERIENCE
+
+## · Junior Back-end Programmer Internship (21 February 2024 - 20 August 2024)
+**AITHO** – *Catania, Italy*
+
+- Backend training (Java, SpringBoot).
+- Backend software development.
+- RAG architecture design and development using the following technologies: Python, Google Cloud Platform, Azure API (Sharepoint), Git Api (Gitea), LangChain, Google Gemini.
+- CI/CD management for deployments.
+- Backend development of external integrations for LLM chatbots through the following technologies: TypeScript, NextJS, Google Drive API, Slack API, Vercel, Supabase, Pinecone.
+- Backend development for LLM chatbot on Slack.
+- MongoDB backend design and development.
 
 ## · Curricular Research Internship (3 April 2023 - 10 June 2023)
 **UNICT - Laposs** – *Catania, Italy*
@@ -51,8 +62,6 @@ Mathematics and Computer Science), professionals and industry experts.
 - Qualitative evaluations on the outputs of the algorithms used and based on these evaluations propose
 possible modifications to the input data and/or analysis techniques.
 
-## · Junior Back-end Programmer Internship (23 February - )
-**AITHO** – *Catania, Italy*
 ___
 
 # PUBLICATIONS
