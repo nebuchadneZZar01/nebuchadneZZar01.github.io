@@ -37,7 +37,7 @@ ___
 
 # WORK EXPERIENCE
 
-## · Junior Back-end Programmer Internship (21 February 2024 - 20 August 2024)
+## · Internship: Backend Dev & Data Scientist (21 February 2024 - 20 August 2024)
 **AITHO** – *Catania, Italy*
 
 - Backend training (Java, SpringBoot).
