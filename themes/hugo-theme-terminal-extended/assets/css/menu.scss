@@ -87,6 +87,40 @@
   }
 }
 
+.menu__dropdown {
+  display: none;
+}
+
+.menu__trigger::after {
+  content: '▼';
+}
+
+.open .menu__trigger::after {
+  content: '▲';
+}
+
+.menu__trigger:hover {
+  background-color: darken($accent, 5%);
+  color: darken($background, 5%);
+}
+
+.open .menu__trigger:hover {
+  background-color: $background;
+  color: darken($accent, 5%);
+}
+
+.open .menu__trigger {
+  background-color: $background;
+  outline-style: solid;
+  color: $accent;
+}
+
+.open .menu__dropdown {
+  display: flex;
+}
+
+
+
 .menu {
   display: flex;
   flex-direction: column;
