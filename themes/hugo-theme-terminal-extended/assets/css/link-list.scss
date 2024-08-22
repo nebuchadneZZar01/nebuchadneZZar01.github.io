@@ -4,11 +4,13 @@
 }
 
 #userPhoto {
-    width: 96px;
-    height: 96px;
+    width: 150px;
+    height: 150px;
     display: block;
     margin: 50px auto 20px;
     border-radius: 50%;
+    border-style: solid;
+    border-color: $accent;
 }
 
 #userName {
@@ -65,7 +67,7 @@
     color: $background;
 }
 
-.linkContainer:hover{
+.linkContainer:hover {
     background-color: $background;
     color: $accent;
 }
