@@ -1,7 +1,7 @@
 #easterEgg {
     position: fixed; 
     width: 150px; 
-    bottom: 0px; 
+    bottom: 30px; 
     right: 20px;
     z-index: 9999;
 }
@@ -14,10 +14,11 @@
 
 @media screen and (min-width: 700px) {
     body:has(.content):has(#links) {
-        background-image: url("/img/pixel_dots.png");
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        background-position: bottom left;
+        background-image: url("/img/pixel_dots_bottom.png"),url("/img/pixel_dots_top.png");
+        background-attachment: fixed, fixed;
+        background-repeat: no-repeat, no-repeat;
+        background-position: bottom left, top right;
+        background-size: auto, auto;
     }
 }
 
