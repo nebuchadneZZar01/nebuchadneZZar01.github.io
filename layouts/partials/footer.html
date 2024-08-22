@@ -5,7 +5,7 @@
         <span>{{ $.Site.Copyright | safeHTML }}</span>
     {{ else }}
       <div class="copyright">
-        <span>© {{ now.Year }} Powered by <a href="https://gohugo.io">Hugo</a></span>
+        <span>© {{ now.Year }} Michele Ferro. Last updated: {{ now.Day }} {{ now.Month}}, {{ now.Year }} </span>
     {{ end }}
     {{ if not $.Site.Params.HideDefaultCredit }}
       <span>:: <a href="https://github.com/Louisload/hugo-theme-terminal-extended" target="_blank">Theme</a>, a fork made by <a href="https://github.com/louisload" target="_blank">Louisload</a>, original by <a href="https://github.com/panr" target="_blank">panr</a></span>

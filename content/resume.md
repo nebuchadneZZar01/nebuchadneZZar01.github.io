@@ -120,4 +120,4 @@ ___
 
 ___
 
-# [▴ BACK TO TABLE OF CONTENTS](#table-of-contents)
+# [▴ TABLE OF CONTENTS](#table-of-contents)
