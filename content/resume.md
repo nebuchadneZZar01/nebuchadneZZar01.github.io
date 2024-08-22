@@ -103,9 +103,12 @@ ___
 ___
 
 # LANGUAGES
-- **Italian** – *Native Speaker*
-- **English** – *B2 Level*
-- **French** – *A1 Level*
+
+| LANGUAGE | LEVEL |
+| --- | --- |
+| **Italian** | *Native Speaker* |
+| **English** | *B2 Level* |
+| **French** | *A1 Level* |
 
 ___
 
@@ -115,4 +118,6 @@ ___
 
 #### · [Europass Format (ENG)](/files/CV_eng.pdf)
 
+___
 
+# [▴ BACK TO TABLE OF CONTENTS](#table-of-contents)
