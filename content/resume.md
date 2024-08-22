@@ -42,9 +42,22 @@ ___
 
 - Backend training (Java, SpringBoot).
 - Backend software development.
-- RAG architecture design and development using the following technologies: Python, Google Cloud Platform, Azure API (Sharepoint), Git Api (Gitea), LangChain, Google Gemini.
+- RAG architecture design and development using the following technologies: 
+    - Python;
+    - Google Cloud Platform;
+    - Azure API (Sharepoint);
+    - Git Api (Gitea);
+    - LangChain;
+    - Google Gemini.
 - CI/CD management for deployments.
-- Backend development of external integrations for LLM chatbots through the following technologies: TypeScript, NextJS, Google Drive API, Slack API, Vercel, Supabase, Pinecone.
+- Backend development of external integrations for LLM chatbots through the following technologies: 
+    - TypeScript;
+    - NextJS; 
+    - Google Drive API;
+    - Slack API;
+    - Vercel;
+    - Supabase;
+    - Pinecone.
 - Backend development for LLM chatbot on Slack.
 - MongoDB backend design and development.
 
@@ -52,15 +65,10 @@ ___
 **UNICT - Laposs** – *Catania, Italy*
 
 - Study of large unstructured data analysis techniques (text, web data, digital activity logs, etc.).
-- Learning advanced data analysis techniques (e.g., Machine Learning) for extracting information from
-data provided by companies that participated in the project.
-- Learning techniques for measuring a company's "reputation," e.g., in terms of sustainability, and the
-"sentiment" expressed on social media regarding the products/services offered by the same
-company.
-- Involvement in multidisciplinary working groups, with students from other departments (e.g., Dept. of
-Mathematics and Computer Science), professionals and industry experts.
-- Qualitative evaluations on the outputs of the algorithms used and based on these evaluations propose
-possible modifications to the input data and/or analysis techniques.
+- Learning advanced data analysis techniques (e.g., Machine Learning) for extracting information from data provided by companies that participated in the project.
+- Learning techniques for measuring a company's "reputation," e.g., in terms of sustainability, and the "sentiment" expressed on social media regarding the products/services offered by the same company.
+- Involvement in multidisciplinary working groups, with students from other departments (e.g., Dept. of Mathematics and Computer Science), professionals and industry experts.
+- Qualitative evaluations on the outputs of the algorithms used and based on these evaluations propose possible modifications to the input data and/or analysis techniques.
 
 ___
 
@@ -70,7 +78,7 @@ ___
 **G. Gallo, F. Buscemi, M. Ferro, M. Figuera, P. M. Riela** - *Pattern Recognition. ICPR International Workshops and Challenges (pp.215-222)*
 
 
-An innovative abstraction technique to represent both mathematically and visually some geometric properties of the facing stones in a wall is presented. The technique has been developed within the W.A.L.(L) Project, an interdisciplinary effort to apply Machine Learning techniques to support and integrate archaeological research. More precisely the paper introduces an original way to “abstract” the complex and irregular 3D shapes of stones in a wall with suitable ellipsoids. A wall is first digitized into a unique 3D point cloud and it is successively segmented into the sub-meshes of its stones. Each stone mesh is then “summarized” by the inertial ellipsoid relative to the point cloud of its vertices. A wall is in this way turned into a “population” of ellipsoid shapes statistical properties of which may be processed with Machine Learning algorithms to identify typologies of the walls under study. The paper also reports two simple case studies to assess the effectiveness of the proposed approach.
+> An innovative abstraction technique to represent both mathematically and visually some geometric properties of the facing stones in a wall is presented. The technique has been developed within the W.A.L.(L) Project, an interdisciplinary effort to apply Machine Learning techniques to support and integrate archaeological research. More precisely the paper introduces an original way to “abstract” the complex and irregular 3D shapes of stones in a wall with suitable ellipsoids. A wall is first digitized into a unique 3D point cloud and it is successively segmented into the sub-meshes of its stones. Each stone mesh is then “summarized” by the inertial ellipsoid relative to the point cloud of its vertices. A wall is in this way turned into a “population” of ellipsoid shapes statistical properties of which may be processed with Machine Learning algorithms to identify typologies of the walls under study. The paper also reports two simple case studies to assess the effectiveness of the proposed approach.
 
 ___
 
@@ -81,10 +89,16 @@ ___
 - Python
 - Git
 - GitHub
+- Backend development
+- CI/CD
 - Docker
+- 3D Graphics and modelling 
 - Blender
 - Machine/Deep Learning
 - Computer Vision
+- Google Cloud Platform
+- LLM
+- RAG
 
 ___
 
@@ -97,8 +111,8 @@ ___
 
 # DOWNLOAD PDF
 
-## · [Europass Format (ITA)](/files/CV_ita.pdf)
+#### · [Europass Format (ITA)](/files/CV_ita.pdf)
 
-## · [Europass Format (ENG)](/files/CV_eng.pdf)
+#### · [Europass Format (ENG)](/files/CV_eng.pdf)
 
 
