@@ -19,17 +19,21 @@
   > li {
     color: white;
 
+    &:hover {
+      color: $accent;
+    }
+
     a {
-      color: inherit; 
+      color: inherit;
+
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 
   a {
     color: inherit;
-
-    &:hover {
-      text-decoration: underline;
-    }
   }
 }
 
