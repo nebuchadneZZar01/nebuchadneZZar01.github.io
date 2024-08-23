@@ -14,7 +14,9 @@ ___
 
 # EDUCATION
 
-## · Computer Science Master's Degree (2021 - 2023)
+## · Computer Science Master's Degree
+October 2021 - December 2023 
+
 **Università degli Studi di Catania** – *Catania, Italy* 
 
 **Thesis:** Knowledge extraction from sustainability reports using computer vision-based heuristics
@@ -23,21 +25,27 @@ ___
 
 Nominee "Premio Archimede" 20th Ed. 2024
 
-## · Computer Science Bachelor'S Degree (2017 - 2021)
+## · Computer Science Bachelor'S Degree
+October 2017 - April 2021 
+
 **Università degli Studi di Catania** – *Catania, Italy*
 
 **Thesis:** Sviluppo di add-on per Blender: applicazioni nell'archeologia e nell'ingegneria edile
 
 **Grade:** 103/110
 
-## · High School Degree (2012 - 2017)
+## · High School Degree
+2012 - 2017
+
 **Liceo Scientifico A. Volta** – *Caltanissetta, Italy*
 
 ___
 
 # WORK EXPERIENCE
 
-## · Internship: Backend Dev & Data Scientist (21 February 2024 - 20 August 2024)
+## · Internship: Backend Dev & Data Scientist
+21 February 2024 - 20 August 2024
+
 **AITHO** – *Catania, Italy*
 
 - Backend training (Java, SpringBoot).
@@ -61,7 +69,9 @@ ___
 - Backend development for LLM chatbot on Slack.
 - MongoDB backend design and development.
 
-## · Curricular Research Internship (3 April 2023 - 10 June 2023)
+## · Curricular Research Internship 
+3 April 2023 - 10 June 2023
+
 **UNICT - Laposs** – *Catania, Italy*
 
 - Study of large unstructured data analysis techniques (text, web data, digital activity logs, etc.).
@@ -74,7 +84,9 @@ ___
 
 # PUBLICATIONS
 
-## · [Abstracting Stone Walls for Visualization and Analysis (February 2021)](https://www.researchgate.net/publication/349474783_Abstracting_Stone_Walls_for_Visualization_and_Analysis)
+## · [Abstracting Stone Walls for Visualization and Analysis](https://www.researchgate.net/publication/349474783_Abstracting_Stone_Walls_for_Visualization_and_Analysis)
+February 2021
+
 **G. Gallo, F. Buscemi, M. Ferro, M. Figuera, P. M. Riela** - *Pattern Recognition. ICPR International Workshops and Challenges (pp.215-222)*
 
 
