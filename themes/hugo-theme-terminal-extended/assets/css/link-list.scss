@@ -145,6 +145,7 @@
     margin: 5px;
     display: inline;
     filter: invert(95%) sepia(7%) saturate(690%) hue-rotate(185deg) brightness(96%) contrast(91%);
+    transition: filter 0.2s ease;
 }
 
 .extraLink:hover img {
