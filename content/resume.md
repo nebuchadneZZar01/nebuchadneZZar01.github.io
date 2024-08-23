@@ -19,7 +19,7 @@ October 2021 - December 2023
 
 **Università degli Studi di Catania** – *Catania, Italy* 
 
-**Thesis:** Knowledge extraction from sustainability reports using computer vision-based heuristics
+**Thesis:** [Knowledge extraction from sustainability reports using computer vision-based heuristics](/files/master_thesis.pdf)
 
 **Grade:** 110/110 cum laude
 
@@ -30,7 +30,7 @@ October 2017 - April 2021
 
 **Università degli Studi di Catania** – *Catania, Italy*
 
-**Thesis:** Sviluppo di add-on per Blender: applicazioni nell'archeologia e nell'ingegneria edile
+**Thesis:** [Sviluppo di add-on per Blender: applicazioni nell'archeologia e nell'ingegneria edile](/files/bachelor_thesis.pdf)
 
 **Grade:** 103/110
 
