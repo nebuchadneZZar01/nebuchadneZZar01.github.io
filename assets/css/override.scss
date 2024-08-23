@@ -4,6 +4,8 @@
     bottom: 30px; 
     right: 20px;
     z-index: 9999;
+    animation: fadeInPixelated 0.3s ease-out forwards;
+    will-change: opacity, filter;
 }
 
 @media screen and (max-width: 700px) {
@@ -22,3 +24,22 @@
     }
 }
 
+@keyframes fadeInPixelated {
+    0% {
+        opacity: 0;
+        filter: contrast(0.5) brightness(2) blur(10px);
+    }
+    50% {
+        opacity: 0.5;
+        filter: contrast(1) brightness(1.5) blur(5px);
+    }
+    100% {
+        opacity: 1;
+        filter: none;
+    }
+}
+
+.pixelated-fade-in {
+    animation: fadeInPixelated 0.3s ease-out forwards;
+    will-change: opacity, filter;
+}

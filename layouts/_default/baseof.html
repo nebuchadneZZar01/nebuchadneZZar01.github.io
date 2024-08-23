@@ -13,10 +13,14 @@
 
   {{ partial "header.html" . }}
 
-  <div class="content">
+  <div class="content pixelated-fade-in">
     {{ block "main" . }}
     {{ end }}
   </div>
+
+  {{ if eq (.Params.Title) "Home"}}
+    <img id="easterEgg" src="img/cassette.gif">
+  {{ end }}
 
   {{ block "footer" . }}
     {{ partial "footer.html" . }}
