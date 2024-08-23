@@ -18,6 +18,7 @@
 
   > li {
     color: white;
+    transition: color 0.2s ease, background-color 0.2s ease;
 
     &:hover {
       color: $accent;
@@ -102,6 +103,7 @@
 .menu__trigger:hover {
   background-color: darken($accent, 5%);
   color: darken($background, 5%);
+  transition: color 0.2s ease, background-color 0.2s ease;
 }
 
 .open .menu__trigger:hover {
@@ -113,6 +115,7 @@
   background-color: $background;
   outline-style: solid;
   color: $accent;
+  transition: color 0.2s ease, background-color 0.2s ease;
 }
 
 .open .menu__dropdown {
