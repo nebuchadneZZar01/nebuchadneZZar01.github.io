@@ -48,9 +48,9 @@ document.addEventListener('DOMContentLoaded', function () {
   var menuTrigger = document.querySelector('.menu__trigger');
   var dropdownMenu = document.querySelector('.menu__dropdown');
 
-  menuTrigger.addEventListener('click', function () {
+  // Function to close the menu with animation
+  function closeMenu() {
     if (dropdownMenu.classList.contains('window-open')) {
-      // If the menu is already open, apply the closing animation
       dropdownMenu.classList.remove('window-open');
       dropdownMenu.classList.add('window-close');
 
@@ -62,8 +62,15 @@ document.addEventListener('DOMContentLoaded', function () {
         dropdownMenu.classList.remove('window-close');
         dropdownMenu.removeEventListener('animationend', onClose);
       });
+    }
+  }
+
+  // Event listener for the menu trigger click
+  menuTrigger.addEventListener('click', function (event) {
+    event.stopPropagation(); // Prevent click event from bubbling up
+    if (dropdownMenu.classList.contains('window-open')) {
+      closeMenu(); // Close the menu if it's already open
     } else {
-      // If the menu is closed, show the contents and apply the opening animation
       dropdownMenu.style.display = 'block';
       dropdownMenu.style.maxHeight = '500px'; // Must be equal to the value in max-height CSS
       dropdownMenu.style.opacity = '1';
@@ -71,6 +78,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
       // Remove display:none and apply opening animation
       dropdownMenu.classList.remove('window-close');
+    }
+  });
+
+  // Event listener for clicks outside the menu to close it
+  document.addEventListener('click', function (event) {
+    var isClickInside = menuTrigger.contains(event.target) || dropdownMenu.contains(event.target);
+
+    // If the click is outside the menu, close it
+    if (!isClickInside) {
+      closeMenu();
     }
   });
 });
