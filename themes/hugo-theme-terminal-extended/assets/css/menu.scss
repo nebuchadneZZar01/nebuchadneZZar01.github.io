@@ -163,3 +163,52 @@
     }
   }
 }
+
+// menu animation
+@keyframes slideInFromButton {
+  0% {
+    max-height: 0;
+    opacity: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  100% {
+    max-height: 500px;
+    opacity: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@keyframes slideOutToButton {
+  0% {
+    max-height: 500px;
+    opacity: 1;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  100% {
+    max-height: 0;
+    opacity: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.menu__dropdown {
+  overflow: hidden;
+  max-height: 0;
+  opacity: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  transition: max-height 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.menu__dropdown.window-open {
+  display: block;
+  animation: slideInFromButton 0.3s ease-out forwards;
+}
+
+.menu__dropdown.window-close {
+  animation: slideOutToButton 0.3s ease-in forwards;
+}
