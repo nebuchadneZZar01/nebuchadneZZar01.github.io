@@ -39,6 +39,8 @@ October 2017 - April 2021
 
 **Liceo Scientifico A. Volta** – *Caltanissetta, Italy*
 
+**Grade:** 87/100
+
 ___
 
 # WORK EXPERIENCE
