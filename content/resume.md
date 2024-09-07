@@ -43,7 +43,7 @@ ___
 
 # WORK EXPERIENCE
 
-## · Junior Backend Dev & Data Scientist
+## · Apprenticeship: Backend Dev & Data Scientist
 5 September 2024 - Present
 
 **AITHO** – *Catania, Italy*
