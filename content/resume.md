@@ -15,7 +15,7 @@ ___
 # EDUCATION
 
 ## · Computer Science Master's Degree
-October 2021 - December 2023 
+October 2021 - 14 December 2023 
 
 **Università degli Studi di Catania** – *Catania, Italy* 
 
@@ -26,7 +26,7 @@ October 2021 - December 2023
 Nominee "Premio Archimede" 20th Ed. 2024
 
 ## · Computer Science Bachelor'S Degree
-October 2017 - April 2021 
+October 2017 - 23 April 2021 
 
 **Università degli Studi di Catania** – *Catania, Italy*
 
@@ -34,7 +34,7 @@ October 2017 - April 2021
 
 **Grade:** 103/110
 
-## · High School Degree
+## · Scientific Lyceum Diploma
 2012 - 2017
 
 **Liceo Scientifico A. Volta** – *Caltanissetta, Italy*
