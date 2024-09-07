@@ -43,6 +43,11 @@ ___
 
 # WORK EXPERIENCE
 
+## · Junior Backend Dev & Data Scientist
+5 September 2024 - Present
+
+**AITHO** – *Catania, Italy*
+
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
 
