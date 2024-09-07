@@ -25,7 +25,7 @@ October 2021 - 14 December 2023
 
 Nominee "Premio Archimede" 20th Ed. 2024
 
-## · Computer Science Bachelor'S Degree
+## · Computer Science Bachelor's Degree
 October 2017 - 23 April 2021 
 
 **Università degli Studi di Catania** – *Catania, Italy*
