@@ -5,7 +5,7 @@ title = "Résumé (CV)"
 # TABLE OF CONTENTS
 - [Education](#education)
 - [Work Experience](#work-experience)
-- [Skills](#skills)
+- [Technical Skills](#technical-skills)
 - [Languages](#languages)
 - [Download PDF](#download-pdf)
 
@@ -15,9 +15,9 @@ ___
 # EDUCATION
 
 ## · Computer Science Master's Degree
-October 2021 - 14 December 2023 
+October 2021 - 14 December 2023
 
-**Università degli Studi di Catania** – *Catania, Italy* 
+**Università degli Studi di Catania** – *Catania, Italy*
 
 **Thesis:** [Knowledge extraction from sustainability reports using computer vision-based heuristics](/files/master_thesis.pdf)
 
@@ -26,7 +26,7 @@ October 2021 - 14 December 2023
 Nominee "Premio Archimede" 20th Ed. 2024
 
 ## · Computer Science Bachelor's Degree
-October 2017 - 23 April 2021 
+October 2017 - 23 April 2021
 
 **Università degli Studi di Catania** – *Catania, Italy*
 
@@ -57,7 +57,7 @@ ___
 
 - Backend training (Java, SpringBoot).
 - Backend software development.
-- RAG architecture design and development using the following technologies: 
+- RAG architecture design and development using the following technologies:
     - Python;
     - Google Cloud Platform;
     - Azure API (Sharepoint);
@@ -65,9 +65,9 @@ ___
     - LangChain;
     - Google Gemini.
 - CI/CD management for deployments.
-- Backend development of external integrations for LLM chatbots through the following technologies: 
+- Backend development of external integrations for LLM chatbots through the following technologies:
     - TypeScript;
-    - NextJS; 
+    - NextJS;
     - Google Drive API;
     - Slack API;
     - Vercel;
@@ -76,7 +76,7 @@ ___
 - Backend development for LLM chatbot on Slack.
 - MongoDB backend design and development.
 
-## · Curricular Research Internship 
+## · Curricular Research Internship
 3 April 2023 - 10 June 2023
 
 **UNICT - Laposs** – *Catania, Italy*
@@ -101,7 +101,7 @@ February 2021
 
 ___
 
-# TECHINCAL SKILLS
+# TECHNICAL SKILLS
 - Linux
 - Windows
 - C/C++
@@ -111,13 +111,13 @@ ___
 - Backend development
 - CI/CD
 - Docker
-- 3D Graphics and modelling 
+- 3D Graphics and modelling
 - Blender
 - Machine/Deep Learning
 - Computer Vision
 - Google Cloud Platform
-- LLM
-- RAG
+- Large Language Model (LLM)
+- Retrieval-Augmented Generation (RAG)
 
 ___
 
