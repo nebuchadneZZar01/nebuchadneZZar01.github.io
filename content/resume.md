@@ -3,14 +3,66 @@ title = "Résumé (CV)"
 +++
 
 # TABLE OF CONTENTS
-- [Education](#education)
 - [Work Experience](#work-experience)
+- [Education](#education)
 - [Technical Skills](#technical-skills)
 - [Languages](#languages)
 - [Download PDF](#download-pdf)
 
 ___
 
+# WORK EXPERIENCE
+
+## · Backend Dev & Data Scientist
+5 September 2024 - Present
+
+**AITHO** – *Catania, Italy*
+
+- Backend development in Python:
+    - `FastAPI`;
+    - `Flask`.
+- PostgreSQL backend design and development.
+- Development of Reactive RAG agents solutions using `LangChain` framework. 
+- Advanced prompting for Reactive RAG agents.
+
+## · Internship: Backend Dev & Data Scientist
+21 February 2024 - 20 August 2024
+
+**AITHO** – *Catania, Italy*
+
+- Backend training (Java, SpringBoot).
+- Backend software development.
+- RAG architecture design and development using the following technologies:
+    - Python;
+    - Google Cloud Platform;
+    - Azure API (Sharepoint);
+    - Git API (Gitea);
+    - LangChain;
+    - Google Gemini.
+- CI/CD management for deployments.
+- Backend development of external integrations for LLM chatbots through the following technologies:
+    - TypeScript;
+    - NextJS;
+    - Google Drive API;
+    - Slack API;
+    - Vercel;
+    - Supabase;
+    - Pinecone.
+- Backend development for LLM chatbot on Slack.
+- MongoDB backend design and development.
+
+## · Curricular Research Internship
+3 April 2023 - 10 June 2023
+
+**UNICT - Laposs** – *Catania, Italy*
+
+- Study of large unstructured data analysis techniques (text, web data, digital activity logs, etc.).
+- Learning advanced data analysis techniques (e.g., Machine Learning) for extracting information from data provided by companies that participated in the project.
+- Learning techniques for measuring a company's "reputation," e.g., in terms of sustainability, and the "sentiment" expressed on social media regarding the products/services offered by the same company.
+- Involvement in multidisciplinary working groups, with students from other departments (e.g., Dept. of Mathematics and Computer Science), professionals and industry experts.
+- Qualitative evaluations on the outputs of the algorithms used and based on these evaluations propose possible modifications to the input data and/or analysis techniques.
+
+___
 
 # EDUCATION
 
@@ -43,52 +95,6 @@ October 2017 - 23 April 2021
 
 ___
 
-# WORK EXPERIENCE
-
-## · Apprenticeship: Backend Dev & Data Scientist
-5 September 2024 - Present
-
-**AITHO** – *Catania, Italy*
-
-## · Internship: Backend Dev & Data Scientist
-21 February 2024 - 20 August 2024
-
-**AITHO** – *Catania, Italy*
-
-- Backend training (Java, SpringBoot).
-- Backend software development.
-- RAG architecture design and development using the following technologies:
-    - Python;
-    - Google Cloud Platform;
-    - Azure API (Sharepoint);
-    - Git Api (Gitea);
-    - LangChain;
-    - Google Gemini.
-- CI/CD management for deployments.
-- Backend development of external integrations for LLM chatbots through the following technologies:
-    - TypeScript;
-    - NextJS;
-    - Google Drive API;
-    - Slack API;
-    - Vercel;
-    - Supabase;
-    - Pinecone.
-- Backend development for LLM chatbot on Slack.
-- MongoDB backend design and development.
-
-## · Curricular Research Internship
-3 April 2023 - 10 June 2023
-
-**UNICT - Laposs** – *Catania, Italy*
-
-- Study of large unstructured data analysis techniques (text, web data, digital activity logs, etc.).
-- Learning advanced data analysis techniques (e.g., Machine Learning) for extracting information from data provided by companies that participated in the project.
-- Learning techniques for measuring a company's "reputation," e.g., in terms of sustainability, and the "sentiment" expressed on social media regarding the products/services offered by the same company.
-- Involvement in multidisciplinary working groups, with students from other departments (e.g., Dept. of Mathematics and Computer Science), professionals and industry experts.
-- Qualitative evaluations on the outputs of the algorithms used and based on these evaluations propose possible modifications to the input data and/or analysis techniques.
-
-___
-
 # PUBLICATIONS
 
 ## · [Abstracting Stone Walls for Visualization and Analysis](https://www.researchgate.net/publication/349474783_Abstracting_Stone_Walls_for_Visualization_and_Analysis)
@@ -102,22 +108,41 @@ February 2021
 ___
 
 # TECHNICAL SKILLS
-- Linux
-- Windows
-- C/C++
-- Python
-- Git
-- GitHub
-- Backend development
-- CI/CD
-- Docker
-- 3D Graphics and modelling
-- Blender
-- Machine/Deep Learning
-- Computer Vision
-- Google Cloud Platform
-- Large Language Model (LLM)
-- Retrieval-Augmented Generation (RAG)
+
+- **Operating Systems**:
+    - Linux
+    - Windows
+
+- **Programming Languages**:
+    - Python
+    - C/C++ 
+    - Java
+
+- **Code Management & Continuous Integration (CI/CD)**
+    - Git
+    - Gitea
+    - GitHub
+    - Woodpecker
+
+
+- **Backend development**
+    - API Management
+    - Database Management
+    - Server-Side Development
+
+- **Cloud Computing**
+    - Docker
+    - Google Cloud Platform
+
+- **3D Graphics and Modelling**
+    - Blender
+
+- **Artificial Intelligence**
+    - Machine/Deep Learning
+    - Computer Vision
+    - Large Language Model (LLM)
+    - Retrieval-Augmented Generation (RAG)
+    - Advanced Prompting
 
 ___
 
