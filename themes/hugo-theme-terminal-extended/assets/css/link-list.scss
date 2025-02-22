@@ -23,6 +23,10 @@
     text-align: center;
     text-decoration: none;
     margin: 0px;
+
+    @media ($phone) {
+        font-size: 20pt;
+    }
 }
 
 #description {
@@ -33,6 +37,10 @@
     text-align: center;
     text-decoration: none;
     margin: 0px;
+
+    @media ($phone) {
+        font-size: 1rem;
+    }
 }
 
 #links {
@@ -119,12 +127,20 @@
     fill: inherit;
 }
 
+.linkIconContainer:hover {
+    color: red;
+}
+
 .linkText, .textContainer p {
     width: 100%;
     color: inherit;
     font-family: var(--font);
     font-size: 12pt;
     margin: 0px;
+
+    @media ($phone) {
+        font-size: 0.9rem;
+    }
 }
 
 .linkText {
