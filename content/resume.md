@@ -16,7 +16,7 @@ ___
 ## · Backend Dev & Data Scientist
 5 September 2024 - Present
 
-**AITHO** – *Catania, Italy*
+[**Aitho S.r.l.**](https://aitho.it/) – *Catania, Italy*
 
 - Backend development in Python:
     - `FastAPI`;
@@ -28,7 +28,7 @@ ___
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
 
-**AITHO** – *Catania, Italy*
+[**Aitho S.r.l.**](https://aitho.it/) – *Catania, Italy*
 
 - Backend training (Java, SpringBoot).
 - Backend software development.
@@ -54,7 +54,7 @@ ___
 ## · Curricular Research Internship
 3 April 2023 - 10 June 2023
 
-**UNICT - Laposs** – *Catania, Italy*
+[**UNICT - Laposs**](http://www.lpss.unict.it/) – *Catania, Italy*
 
 - Study of large unstructured data analysis techniques (text, web data, digital activity logs, etc.).
 - Learning advanced data analysis techniques (e.g., Machine Learning) for extracting information from data provided by companies that participated in the project.
@@ -69,7 +69,7 @@ ___
 ## · Computer Science Master's Degree
 October 2021 - 14 December 2023
 
-**Università degli Studi di Catania** – *Catania, Italy*
+[**Università degli Studi di Catania**](https://web.dmi.unict.it/corsi/lm-18) – *Catania, Italy*
 
 **Thesis:** [Knowledge extraction from sustainability reports using computer vision-based heuristics](/files/master_thesis.pdf)
 
@@ -80,7 +80,7 @@ Nominee "Premio Archimede" 20th Ed. 2024
 ## · Computer Science Bachelor's Degree
 October 2017 - 23 April 2021
 
-**Università degli Studi di Catania** – *Catania, Italy*
+[**Università degli Studi di Catania**](https://web.dmi.unict.it/corsi/l-31) – *Catania, Italy*
 
 **Thesis:** [Sviluppo di add-on per Blender: applicazioni nell'archeologia e nell'ingegneria edile](/files/bachelor_thesis.pdf)
 
