@@ -16,11 +16,11 @@
 
 @media screen and (min-width: 700px) {
     body:has(.content):has(#links) {
-        background-image: url("/img/pixel_dots_bottom.png"),url("/img/pixel_dots_top.png");
-        background-attachment: fixed, fixed;
-        background-repeat: no-repeat, no-repeat;
-        background-position: bottom left, top right;
-        background-size: auto, auto;
+        background-image: url("/img/background.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: cover;  
     }
 }
 
