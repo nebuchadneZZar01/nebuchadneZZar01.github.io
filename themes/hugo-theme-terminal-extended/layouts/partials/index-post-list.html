@@ -11,7 +11,7 @@
     {{ range $paginator.Pages }}
       <article class="post on-list">
         <h1 class="post-title">
-          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          <a>{{ .Title | markdownify }}</a>
         </h1>
 
         <div class="post-meta">
