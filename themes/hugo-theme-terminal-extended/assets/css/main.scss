@@ -11,7 +11,7 @@ html {
 body {
   margin: 0;
   padding-bottom: 30px;
-  font-family: 'Fira Code', Monaco, Consolas, Ubuntu Mono, monospace;
+  font-family: 'Fira Code', monospace;
   font-size: 1rem;
   line-height: 1.54;
   letter-spacing: -0.02em;
@@ -128,7 +128,7 @@ figure {
 }
 
 code, kbd {
-  font-family: 'Fira Code', Monaco, Consolas, Ubuntu Mono, monospace !important;
+  font-family: 'Fira Code', monospace !important;
   font-feature-settings: normal;
   background: transparentize($accent, .8);
   color: $accent;
