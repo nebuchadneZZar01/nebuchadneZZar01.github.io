@@ -127,8 +127,8 @@
     fill: inherit;
 }
 
-.linkIconContainer:hover {
-    color: red;
+.linkContainer:hover .linkIconContainer .icon {
+    filter: $accent-svg;
 }
 
 .linkText, .textContainer p {
@@ -163,10 +163,10 @@
     height: var(--extraLinkSize);
     margin: 5px;
     display: inline;
-    filter: invert(95%) sepia(7%) saturate(690%) hue-rotate(185deg) brightness(96%) contrast(91%);
+    filter: $white-svg;
     transition: filter 0.2s ease;
 }
 
 .extraLink:hover img {
-    filter: invert(69%) sepia(7%) saturate(1671%) hue-rotate(169deg) brightness(91%) contrast(82%);
+    filter: $accent-svg;
 }
