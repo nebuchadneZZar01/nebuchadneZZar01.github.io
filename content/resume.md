@@ -25,10 +25,10 @@ ___
 - Development of Reactive RAG agents solutions using `LangChain` framework. 
 - Advanced prompting for Reactive RAG agents.
 - Design and implementation of Multi-Agent system architectures.
-- University seminar on `LangChain` and cutting-adge AI technologies.
+- [University seminar](https://web.dmi.unict.it/it/corsi/l-31/agenti-intelligenti-e-machine-learning-aitho) about `LangChain` and cutting-edge AI technologies.
 - DevOps:
     - service hosting via `Traefik`;
-    - build and deployment automation via CI/CD pipelines (`WoodPecker`).
+    - build and deployment automation via CI/CD pipelines (`Woodpecker`).
 
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
