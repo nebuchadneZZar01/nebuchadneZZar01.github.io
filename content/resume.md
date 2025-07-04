@@ -24,6 +24,11 @@ ___
 - PostgreSQL backend design and development.
 - Development of Reactive RAG agents solutions using `LangChain` framework. 
 - Advanced prompting for Reactive RAG agents.
+- Design and implementation of Multi-Agent system architectures.
+- University seminar on `LangChain` and cutting-adge AI technologies.
+- DevOps:
+    - service hosting via `Traefik`;
+    - build and deployment automation via CI/CD pipelines (`WoodPecker`).
 
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
@@ -118,12 +123,18 @@ ___
     - C/C++ 
     - Java
 
-- **Code Management & Continuous Integration (CI/CD)**
+- **DevOps**:
+    - Docker
+    - Woodpecker
+    - GitHub Actions
+    - Ansible
+
+- **Code Management**
     - Git
     - Gitea
     - GitHub
+    - GitLab
     - Woodpecker
-
 
 - **Backend development**
     - API Management
@@ -131,7 +142,6 @@ ___
     - Server-Side Development
 
 - **Cloud Computing**
-    - Docker
     - Google Cloud Platform
 
 - **3D Graphics and Modelling**
