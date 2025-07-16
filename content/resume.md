@@ -28,7 +28,8 @@ ___
 - [University seminar](https://web.dmi.unict.it/it/corsi/l-31/agenti-intelligenti-e-machine-learning-aitho) about `LangChain` and cutting-edge AI technologies.
 - DevOps:
     - service hosting via `Traefik`;
-    - build and deployment automation via CI/CD pipelines (`Woodpecker`).
+    - build and deployment automation via CI/CD pipelines (`Woodpecker`);
+    - automated deployment and mantaince via `Ansible`.
 
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
@@ -134,11 +135,10 @@ ___
     - Gitea
     - GitHub
     - GitLab
-    - Woodpecker
 
 - **Backend development**
-    - API Management
-    - Database Management
+    - API Management and design
+    - Database Management and design
     - Server-Side Development
 
 - **Cloud Computing**
