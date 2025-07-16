@@ -29,7 +29,7 @@ ___
 - DevOps:
     - service hosting via `Traefik`;
     - build and deployment automation via CI/CD pipelines (`Woodpecker`);
-    - automated deployment and mantaince via `Ansible`.
+    - automated deployment and maintenance via `Ansible`.
 
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
