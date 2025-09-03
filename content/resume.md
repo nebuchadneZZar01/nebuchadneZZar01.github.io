@@ -13,23 +13,26 @@ ___
 
 # WORK EXPERIENCE
 
-## · Backend Dev & Data Scientist
+## · Backend Dev | Data Scientist | SysAdmin
 5 September 2024 - Present
 
 [**Aitho S.r.l.**](https://aitho.it/) – *Catania, Italy*
 
-- Backend development in Python:
-    - `FastAPI`;
-    - `Flask`.
-- PostgreSQL backend design and development.
-- Development of Reactive RAG agents solutions using `LangChain` framework. 
-- Advanced prompting for Reactive RAG agents.
-- Design and implementation of Multi-Agent system architectures.
-- [University seminar](https://web.dmi.unict.it/it/corsi/l-31/agenti-intelligenti-e-machine-learning-aitho) about `LangChain` and cutting-edge AI technologies.
-- DevOps:
-    - service hosting via `Traefik`;
-    - build and deployment automation via CI/CD pipelines (`Woodpecker`);
-    - automated deployment and maintenance via `Ansible`.
+- **Backend development** in Python:
+  - `FastAPI` framework;
+  - `Flask` framework;
+  - MongoDB design and development;
+  - PostgreSQL DB design and development.
+- **Data Science**:
+  - Development of Reactive RAG agents solutions using `LangChain` framework. 
+  - Advanced prompting for Reactive RAG agents.
+  - Design and implementation of Multi-Agent system architectures.
+  - [University seminar](https://web.dmi.unict.it/it/corsi/l-31/agenti-intelligenti-e-machine-learning-aitho) about `LangChain` and cutting-edge AI technologies.
+- **DevOps/SysAdmin**:
+  - Service hosting via `Traefik`;
+  - Build and deployment automation via CI/CD pipelines (`Woodpecker`);
+  - Automated deployment and maintenance via `Ansible`;
+  - Kubernetes cluster management.
 
 ## · Internship: Backend Dev & Data Scientist
 21 February 2024 - 20 August 2024
@@ -129,6 +132,7 @@ ___
     - Woodpecker
     - GitHub Actions
     - Ansible
+    - Kubernetes
 
 - **Code Management**
     - Git
