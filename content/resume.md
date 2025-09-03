@@ -18,17 +18,17 @@ ___
 
 [**Aitho S.r.l.**](https://aitho.it/) – *Catania, Italy*
 
-- **Backend development** in Python:
+### Backend development in Python
   - `FastAPI` framework;
   - `Flask` framework;
   - MongoDB design and development;
   - PostgreSQL DB design and development.
-- **Data Science**:
+### Data Science
   - Development of Reactive RAG agents solutions using `LangChain` framework. 
   - Advanced prompting for Reactive RAG agents.
   - Design and implementation of Multi-Agent system architectures.
   - [University seminar](https://web.dmi.unict.it/it/corsi/l-31/agenti-intelligenti-e-machine-learning-aitho) about `LangChain` and cutting-edge AI technologies.
-- **DevOps/SysAdmin**:
+### DevOps/SysAdmin
   - Service hosting via `Traefik`;
   - Build and deployment automation via CI/CD pipelines (`Woodpecker`);
   - Automated deployment and maintenance via `Ansible`;
